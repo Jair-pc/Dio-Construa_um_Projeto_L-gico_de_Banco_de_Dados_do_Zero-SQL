@@ -1,4 +1,14 @@
+<h1 align="center">
+  <br>
+  <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="logo" height="300">
+</h1>
+
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
+
 # Projeto de Banco de Dados de Oficina
+
+## Juliana MAscarenhas
+
 
 	- Contexto: Levantamento de requisitos
 	- Projeto Conceitual: Modelo Entidade Relacionamento
